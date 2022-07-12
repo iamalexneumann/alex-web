@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="alexweb" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="alexweb">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/alex-web.pro/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/alex-web.pro/public_html/bitrix" />
+            <excludedPath path="/alex-web.pro/public_html/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
