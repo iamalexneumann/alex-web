@@ -39,6 +39,6 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) {
                         ),
                         false
                     ); ?>
-                    <h1><?php $APPLICATION->ShowTitle('h1', false); ?></h1>
+                    <h1><?php $APPLICATION->ShowTitle(false); ?></h1>
                 </header>
 						
